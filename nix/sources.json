@@ -1,4 +1,16 @@
 {
+    "myNixPythonPackages": {
+        "branch": "main",
+        "description": null,
+        "homepage": null,
+        "owner": "AtilaSaraiva",
+        "repo": "myNixPythonPackages",
+        "rev": "255286d9de21c284f6cbab03791fe25971045879",
+        "sha256": "1nd02s5jj1v8rzv4qidhn2lgf3v5pdiasqcbcmsxpmhpvz018r2y",
+        "type": "tarball",
+        "url": "https://github.com/AtilaSaraiva/myNixPythonPackages/archive/255286d9de21c284f6cbab03791fe25971045879.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
     "niv": {
         "branch": "master",
         "description": "Easy dependency management for Nix projects",
