@@ -5,10 +5,10 @@
         "homepage": null,
         "owner": "AtilaSaraiva",
         "repo": "myNixPythonPackages",
-        "rev": "255286d9de21c284f6cbab03791fe25971045879",
-        "sha256": "1nd02s5jj1v8rzv4qidhn2lgf3v5pdiasqcbcmsxpmhpvz018r2y",
+        "rev": "baf70b22e90814dfa7552f2a5562d78a475daf09",
+        "sha256": "084h5z253krqf07vmh434amwwc1764k3sl1dlw7dhgibby5g80xa",
         "type": "tarball",
-        "url": "https://github.com/AtilaSaraiva/myNixPythonPackages/archive/255286d9de21c284f6cbab03791fe25971045879.tar.gz",
+        "url": "https://github.com/AtilaSaraiva/myNixPythonPackages/archive/baf70b22e90814dfa7552f2a5562d78a475daf09.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "niv": {
@@ -24,15 +24,15 @@
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "nixpkgs": {
-        "branch": "master",
+        "branch": "nixos-unstable",
         "description": "Nix Packages collection",
         "homepage": "",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "794cf4b03060e763347f9cd8822f1b8fbefab3f9",
-        "sha256": "10zpfpxmfiwsnzn84k4bgwl8mj4ynfqv1sycqvkp90pxd5k6y699",
+        "rev": "cbe587c735b734405f56803e267820ee1559e6c1",
+        "sha256": "0jii8slqbwbvrngf9911z3al1s80v7kk8idma9p9k0d5fm3g4z7h",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/794cf4b03060e763347f9cd8822f1b8fbefab3f9.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/cbe587c735b734405f56803e267820ee1559e6c1.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     }
 }
